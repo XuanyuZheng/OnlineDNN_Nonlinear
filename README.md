@@ -9,7 +9,7 @@ For unknown nonlinearity, we propose a two-stage DNN structure with nonlinear mo
 ![fishy](images/Two_stage_DNN.png)
 
 # Introduction of the codes
-Run "main.py" to implement the online training for massive MIMO CE with nonlinearity.
+Run "main.py" to implement the online training for the two-stage DNN for massive MIMO CE with nonlinearity.
 
 # Note
 You may cite us by
